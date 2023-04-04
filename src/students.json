@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Clay Jensen",
+    "image": "https://i.pinimg.com/236x/30/50/a0/3050a01f9b156e0446a0aaaa3e68c582.jpg",
+    "department": "Computer Science"
+  },
+  {
+    "id": "2",
+    "name": "Hannah Baker",
+    "image": "https://i.pinimg.com/236x/79/9e/4c/799e4cc7254ad159e2b113bba768aa51.jpg",
+    "department": "English"
+  },
+  {
+    "id": "3",
+    "name": "Preethi",
+    "image": "https://i.pinimg.com/236x/23/a3/4e/23a34e8babfc15d0ce6024fc352eb717.jpg",
+    "department": "Commerce"
+  },
+  {
+    "id": "4",
+    "name": "Jessica",
+    "image": "https://i.pinimg.com/236x/c0/28/d8/c028d83e001aaf922a211b5804b0cdac.jpg",
+    "department": "Accounts"
+  },
+  {
+    "id": "5",
+    "name": "Aoi",
+    "image": "https://i.pinimg.com/236x/ea/87/25/ea8725efe43fe165f4bf3c868c4cbc04.jpg",
+    "department": "Economics"
+  },
+  {
+    "id": "6",
+    "name": "Jennifer",
+    "image": "https://i.pinimg.com/236x/af/32/ab/af32abae63a23609f91f9887c7ea2fbc.jpg",
+    "department": "Mathematics"
+  }
+]
